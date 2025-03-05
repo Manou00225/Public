@@ -1,0 +1,11 @@
+#!/bin/bash
+# Info System
+echo " <!DOCTYPE>
+<HTML lang="fr" >
+<head>
+<title> My First Web Page </title>
+</head>
+<body>
+Hello EveryOne Welcome to My First HTML Page (*_*)
+</body>
+</html> "
